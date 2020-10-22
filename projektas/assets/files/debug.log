@@ -1,0 +1,24 @@
+[0830/004950.549:ERROR:local_storage_context_mojo.cc(706)] Lost connection to database
+[0830/103540.611:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0830/103540.657:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0830/103540.658:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0830/110407.548:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0830/110407.548:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0830/110407.566:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0830/110410.361:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0830/110410.361:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0830/110410.979:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0830/110410.979:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0830/110411.602:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0830/110411.602:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0830/110412.543:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0830/110412.543:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0830/110412.857:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0830/110412.857:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0830/110413.164:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0830/110413.164:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0830/110413.477:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0830/110413.477:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
